@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 # I am an experienced Front End Developer
+
+[LinkedIn](https://linkedin.com/in/anveshramelli)
 <!--
 **AnveshRamelli/AnveshRamelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
