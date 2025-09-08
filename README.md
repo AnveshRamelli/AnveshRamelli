@@ -1,19 +1,13 @@
-## Hi there 👋
+# Hi, I'm Anvesh 👋  
 
-# I am an experienced Front End Developer
+🚀 Frontend Developer | 2+ YOE | React.js | JavaScript | TypeScript  
 
-[LinkedIn](https://linkedin.com/in/anvesh-ramelli)
-<!--
-**AnveshRamelli/AnveshRamelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning and working on full-stack projects - **Next.js, Supabase and MERN**
 
-Here are some ideas to get you started:
+- 💡 Love building clean, responsive UIs and solving real-world problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me at **anveshramelli1999@gmail.com**  
+
+- 🌐 [LinkedIn](https://linkedin.com/in/anveshramelli)
+
+feel free to connect!
