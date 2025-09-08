@@ -8,6 +8,6 @@
 
 - 📫 Reach me at **anveshramelli1999@gmail.com**  
 
-- 🌐 [LinkedIn](https://linkedin.com/in/anveshramelli)
+- 🌐 [LinkedIn](https://linkedin.com/in/anvesh-ramelli)
 
 feel free to connect!
